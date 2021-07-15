@@ -1,6 +1,5 @@
 # For private EAIR Network use only
 # CERT-PH
-# Credits to: InsiktGroup
 
 # IPV4
 66.42.61.81
@@ -42,6 +41,7 @@
 101.53.136.36
 202.70.66.146
 139.180.141.227
+103.15.28.195
 
 # DOMAINS
 windowshost.club
@@ -82,3 +82,9 @@ bc.windowshost.club
 arress.windowshost.club
 vt.livehost.live
 vt.livehost.com
+updatecatalogs.com 
+mopfi-ferd.com 
+mmtimes.org 
+mmtimes.net 
+irrawddy.com 
+7daydai1y.com
