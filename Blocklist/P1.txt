@@ -1,6 +1,6 @@
-# For private EAIR Network use only
-# CERT-PH
+# FOR EAIR USE ONLY
 
+# COURTESY OF CERT-PH
 # IPV4
 66.42.61.81
 45.77.107.26
@@ -90,7 +90,7 @@ irrawddy.com
 7daydai1y.com
 
 # PEGASUS
-
+# COURTESY OF AMNESTY TECH
 14-tracking.com
 1minto-start.com
 24-7clinic.com
